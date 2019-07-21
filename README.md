@@ -6,5 +6,5 @@
 <li>Ders Proqramları olacaq və siyahı (combobox) şəklində görsənəcək. Siniflər olacaq və user proqram seçdikdə həmin proqramın sinifləri ikinci siyahıa (combobox-a) dolacaq. User sinif seçdikdə isə aşağıdakı cədvəldə (dataGridView) həmin sinifdə oxuyan tələbələr görsənəcək. Tələbənin ID, ad, soyad, email, Sinif, doğum tarixi olmalıdır və bütün bu məlumatlar cədvəldə görsənməlidir.</li>
 <li>Bundan əlavə, istəyənlər Form-a öyrəşmək üçün Calculator da yaza bilərlər.</li>
 </ul>
-<p><em>Sabah labda iştirak edin. Xoş həftəsonu.</em></p>
+<p><em> Xoş həftəsonu.</em></p>
 </article>
